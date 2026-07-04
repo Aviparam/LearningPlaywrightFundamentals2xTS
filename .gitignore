@@ -1,0 +1,11 @@
+
+# Playwright
+node_modules/*
+!node_modules/.gitignore
+
+# Keep generated Playwright artifacts in the repository
+# /test-results/
+# /playwright-report/
+# /blob-report/
+# /playwright/.cache/
+# /playwright/.auth/
